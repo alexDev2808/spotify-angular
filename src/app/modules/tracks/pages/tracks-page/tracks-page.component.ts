@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class TracksPageComponent {
 
+  mockTracksList = [
+    {
+      name: 'BEBE (Oficial)'
+    },
+    {
+      name: 'BEBE (Oficial)'
+    },
+    {
+      name: 'BEBE (Oficial)'
+    },
+  ]
 }
